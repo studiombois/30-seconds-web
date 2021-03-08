@@ -5,7 +5,6 @@ const literals = {
   pageDescription: `Customize your ${config.websiteName} experience.`,
   settings: {
     darkMode: 'Dark mode',
-    githubLinks: 'GitHub links',
     cookies: 'Cookies',
   },
 };
